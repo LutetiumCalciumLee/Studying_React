@@ -911,7 +911,7 @@ Main tasks:
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # useRef / Forms
