@@ -1006,7 +1006,7 @@ The project applies REST API and CRUD operations to actual schedule data.
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # REST API / JSON Server / CRUD
