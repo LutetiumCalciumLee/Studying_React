@@ -1040,7 +1040,7 @@ The main idea is to convert repeated UI content into array data and render it dy
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Dynamic List Rendering
