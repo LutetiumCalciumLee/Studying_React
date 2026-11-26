@@ -32,7 +32,7 @@ This repository contains my notes from studying React as part of the AI Software
 
 # React
 
-이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 React 내용을 정리하여 업로드했습니다.
+이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 React 내용을 정리했습니다.
 
 ## [1주차. React 개요](https://github.com/LutetiumCalciumLee/Studying_React/tree/Week_01)
 
